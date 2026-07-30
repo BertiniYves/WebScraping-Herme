@@ -1,4 +1,6 @@
 entrypoint = "main.py"
+# Yves : pour fermer des Chromes Zombie qiu bloquent demanrrag
+run = "bash clean.sh && python3 main.py"
 modules = ["python-3.11"]
 
 [nix]
