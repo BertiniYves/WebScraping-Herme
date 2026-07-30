@@ -1,0 +1,5 @@
+2026/07/30-10:50:27.671 1062 Reusing MANIFEST /home/runner/workspace/selenium-profile/Default/shared_proto_db/MANIFEST-000001
+2026/07/30-10:50:27.672 1062 Recovering log #3
+2026/07/30-10:50:27.679 1062 (ignoring error) /home/runner/workspace/selenium-profile/Default/shared_proto_db/000003.log: dropping 21068 bytes; Corruption: checksum mismatch
+2026/07/30-10:50:27.680 1062 (ignoring error) /home/runner/workspace/selenium-profile/Default/shared_proto_db/000003.log: dropping 165 bytes; Corruption: missing start of fragmented record(2)
+2026/07/30-10:50:27.680 1062 Reusing old log /home/runner/workspace/selenium-profile/Default/shared_proto_db/000003.log 
