@@ -1,3 +1,10 @@
+# Yves
+#selenium-profile/
+.pythonlibs/
+*.pyc
+.cache/
+.upm/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
